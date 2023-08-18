@@ -37,6 +37,7 @@ h3{
 .vid h3{
     font-size: 10px;
     margin: 15px;
+    font-family: 'Teko', sans-serif;
 }
 .vid video{
     width: 100px;
