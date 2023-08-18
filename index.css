@@ -90,6 +90,7 @@ h3{
     margin: 10px;
     letter-spacing: 1px;
     text-transform: capitalize;
+    font-family: 'PT Sans Narrow', sans-serif;
 }
 .media_scroller{
     display: grid;
