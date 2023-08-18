@@ -45,6 +45,7 @@ nav a{
     color: rgb(174, 22, 22);
     text-transform: capitalize;
     text-align: center;
+     font-family: 'Caprasimo', cursive;
 }
  button{
 padding: 1px 20px;
